@@ -1591,8 +1591,8 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
 }
 
 .btn-primary {
-    background-color: #f96332;
-    color: #FFFFFF;
+    background-color: #01573c;
+    color: #fdb813;
 }
 
 .btn-primary:hover,
@@ -1606,8 +1606,8 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
 .show>.btn-primary.dropdown-toggle,
 .show>.btn-primary.dropdown-toggle:focus,
 .show>.btn-primary.dropdown-toggle:hover {
-    background-color: #fa7a50;
-    color: #FFFFFF;
+    background-color: #fdb813;
+    color: #01573c;
     box-shadow: none;
 }
 
@@ -3731,7 +3731,7 @@ body {
 }
 
 .bg-primary {
-    background-color: #f96332 !important;
+    background-color: #fdb813 !important;
 }
 
 .bg-info {
@@ -3739,7 +3739,7 @@ body {
 }
 
 .bg-success {
-    background-color: #18ce0f !important;
+    background-color: #01573c !important;
 }
 
 .bg-danger {
